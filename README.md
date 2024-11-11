@@ -64,7 +64,7 @@ Due to the dataset's class imbalance (fewer "Good" wines), the F1 Score and conf
 ## Installation and Setup
 To run this project locally, follow these steps:
 1. Clone this repository:
-   git clone https://github.com/likhiths23/wine-quality-classification.git
+   git clone https://github.com/likhiths23/Wine-Quality-Classification.git
    
 2. Install the required packages:
    pip install -r requirements.txt
