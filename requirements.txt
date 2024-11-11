@@ -4,4 +4,4 @@ NumPy
 Matplotlib
 Seaborn
 Scikit-learn
-TensorFlow/Keras
+TensorFlow
